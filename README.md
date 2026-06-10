@@ -94,8 +94,6 @@ This project is 100% static, making it perfectly suited for free hosting on GitH
    - Click **Save**.
 4. Open `https://YOUR_USERNAME.github.io/manual-testing-study-guide/`.
 
-![GitHub Pages Quick Start](github-pages-quickstart.svg)
-
 ### Detailed version
 
 This project is 100% static, making it perfectly suited for free hosting on GitHub Pages.
