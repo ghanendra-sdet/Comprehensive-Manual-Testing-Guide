@@ -72,7 +72,33 @@ Then open `http://localhost:8000` in your web browser.
 
 ## ☁️ Deploy to GitHub Pages (Hosting)
 
-This project is 100% static, making it perfectly suited for free hosting on GitHub Pages:
+This project is 100% static, making it perfectly suited for free hosting on GitHub Pages.
+
+### Quick version
+
+1. Create a new repository on GitHub. Example: `manual-testing-study-guide`
+2. Push your project files from your computer:
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git branch -M main
+   git remote add origin https://github.com/YOUR_USERNAME/manual-testing-study-guide.git
+   git push -u origin main
+   ```
+3. Enable GitHub Pages in your repository settings:
+   - Open **Settings** on GitHub.
+   - Choose **Pages**.
+   - Set the source to **Deploy from a branch**.
+   - Choose **main** and `/ (root)`.
+   - Click **Save**.
+4. Open `https://YOUR_USERNAME.github.io/manual-testing-study-guide/`.
+
+![GitHub Pages Quick Start](github-pages-quickstart.svg)
+
+### Detailed version
+
+This project is 100% static, making it perfectly suited for free hosting on GitHub Pages.
 
 1. **Create a new repository** on GitHub (e.g., `manual-testing-study-guide`).
 2. **Push this code** to your repository:
