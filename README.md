@@ -94,6 +94,11 @@ This project is 100% static, making it perfectly suited for free hosting on GitH
    - Click **Save**.
 4. Open `https://YOUR_USERNAME.github.io/manual-testing-study-guide/`.
 
+> Example: if your username is `ghanendra-sde`, then your Pages URL will be:
+> `https://ghanendra-sde.github.io/manual-testing-study-guide/`
+>
+> If the page does not appear immediately, wait a few minutes and verify that Pages is configured for the `main` branch and `/ (root)` folder.
+
 ### Detailed version
 
 This project is 100% static, making it perfectly suited for free hosting on GitHub Pages.
